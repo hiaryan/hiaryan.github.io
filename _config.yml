@@ -1,0 +1,19 @@
+title: "Aryan's Portfolio"
+description: "Welcome to my portfolio website!"
+author: "Aryan Shrivastava"
+url: "https://your-username.github.io" # Your GitHub Pages URL
+baseurl: "/your-repository-name" # Leave as "/" if deploying to the root
+
+# Enable Jekyll's default theme and plugins
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# SCSS / CSS Configuration
+sass:
+  style: compressed # You can change this to :expanded if you want a more readable output for your styles
+
+# For External Image and Asset Directories
+assets:
+  enable: true
